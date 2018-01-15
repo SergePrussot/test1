@@ -2,3 +2,5 @@
 git status
 git add
 git commit
+git push otpravka v global repozit
+git diff posmotret local ne commit izmenenia
