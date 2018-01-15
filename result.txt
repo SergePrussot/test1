@@ -5,3 +5,4 @@ git commit -m "kommentarij"
 git push otpravka v global repozit
 git diff posmotret local ne commit izmenenia
 git pull
+whatafuck
