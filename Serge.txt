@@ -2,3 +2,4 @@ wake down
 for (i 1 .. 10){
  system out i+1
 }
+System.shutdown()
