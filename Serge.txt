@@ -1,4 +1,4 @@
 wake down
 for (i 1 .. 10){
- system out i
+ system out i+1
 }
